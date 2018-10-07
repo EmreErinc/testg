@@ -26,8 +26,8 @@ model {
 }
 
 dependencies {
-    play "com.typesafe.play:play-guice_$scalaVersion:$playVersion"
-    play "com.typesafe.play:play-logback_$scalaVersion:$playVersion"
+//    play "com.typesafe.play:play-guice_$scalaVersion:$playVersion"
+//    play "com.typesafe.play:play-logback_$scalaVersion:$playVersion"
     play "com.typesafe.play:filters-helpers_$scalaVersion:$playVersion"
 
     play group: 'org.projectlombok', name: 'lombok', version: '1.18.2'
